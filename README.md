@@ -1,1 +1,1 @@
-Calculadora feita em C# durante meu ensino médio técnico no Cotemig Colégio e Faculdade
+ Duas calculadoras feitas em C# durante meu ensino médio técnico no Cotemig Colégio e Faculdade
