@@ -1,0 +1,10 @@
+C:\Users\pjmtc\OneDrive\Área de Trabalho\POO\Projetos\Calculadora3\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\pjmtc\OneDrive\Área de Trabalho\POO\Projetos\Calculadora3\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\pjmtc\OneDrive\Área de Trabalho\POO\Projetos\Calculadora3\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\pjmtc\OneDrive\Área de Trabalho\POO\Projetos\Calculadora3\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\pjmtc\OneDrive\Área de Trabalho\POO\Projetos\Calculadora3\Calculadora\obj\Debug\Calculadora.FrmCalculadora.resources
+C:\Users\pjmtc\OneDrive\Área de Trabalho\POO\Projetos\Calculadora3\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\pjmtc\OneDrive\Área de Trabalho\POO\Projetos\Calculadora3\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\pjmtc\OneDrive\Área de Trabalho\POO\Projetos\Calculadora3\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\pjmtc\OneDrive\Área de Trabalho\POO\Projetos\Calculadora3\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\pjmtc\OneDrive\Área de Trabalho\POO\Projetos\Calculadora3\Calculadora\obj\Debug\Calculadora.pdb
